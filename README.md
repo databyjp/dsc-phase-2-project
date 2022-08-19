@@ -15,13 +15,10 @@ Started with examining and cleaning data. Followed by test/train data splitting.
 
 
 
-### Wayfinding
-
-Within submit folder you will find
-* Jupyter notebook PDF
-* Non technical presentation PDF
-* non technical presentation PPT
-
-
+### Repository Structure
+├── data
+├── Submit
+├── README.md
+└── Analysis.ipynb
 
 
